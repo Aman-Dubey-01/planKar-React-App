@@ -1,5 +1,5 @@
 {
-  "homepage":"https://Aman-Dubey-01.github.io/planKar-React-App",
+  "homepage": "https://Aman-Dubey-01.github.io/planKar-React-App",
   "name": "plankar",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {    
+  "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
